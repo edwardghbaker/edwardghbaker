@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edwardghbaker
 - 👀 I’m interested in writing and developing codes, principally in python, for geologists and experimental petrologists. 
-- 🌱 I’m currently learning python, inparticular getting more familiar with tkinter/scipy and sklearn 
-- 💞️ I’m looking to collaborate on all of my codes, im also looking at writing some python specific diffusion modelling scripts for geologists. 
+- 🌱 I’m currently learning python, inparticular getting more familiar with tkinter/scipy and sklearn. Im currently working on a classification program for SEM and EPMA data using LEPR and tensor flow.
+- 💞️ I’m looking to collaborate on all of my codes, im also looking at writing some python specific diffusion modelling scripts for earth science
 - 📫 best to get in touch on this platform, or just add @gmail.com to my username and drop me an email. 
 
 <!---
