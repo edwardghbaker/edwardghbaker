@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @edwardghbaker
-- 👀 I’m interested in writing and developing codes, principally in python, for geologists and experimental petrologists. 
-- 🌱 I’m currently learning python, inparticular getting more familiar with tkinter/scipy and sklearn. Im currently working on a classification program for SEM and EPMA data using LEPR and tensor flow.
-- 💞️ I’m looking to collaborate on all of my codes, im also looking at writing some python specific diffusion modelling scripts for earth science
-- 📫 best to get in touch on this platform, or just add @gmail.com to my username and drop me an email. 
+Hello,
+Im Ed and Ive been writing python scripts mainly for geochemical or scientific problems so far, Im looking to branch out and continue to learn more and work on interesting projects. Any questions about my scripts can be directed to edwardghbaker@gmail.com. 
 
-<!---
-edwardghbaker/edwardghbaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I will shortly be uploading scripts to tile .bcf image files and filtered by elemental X-ray line and EPMA processing script that classifies phases and accounts for contamination. 
+
+The fO2 script has been converted to an android app, comments should be directed to edsExPetApps@gmail.com. 
+
+- The painting code can be downlaoded and run on any python interpreter as is. Notes are found in withing the Room class if needed. 
