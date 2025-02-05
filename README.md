@@ -6,4 +6,4 @@ I will shortly be uploading scripts to tile .bcf image files, filtered by elemen
 
 The fO2 script has been converted to an android app, comments should be directed to edsExPetApps@gmail.com. 
 
-- The painting code can be downlaoded and run on any python interpreter as is. Notes are found in the painting the Room class if needed. 
+- The painting code can be downloaded and run on any python interpreter as is. Notes are found in the painting the Room class if needed. 
